@@ -78,3 +78,81 @@ Model Training
 Model Evaluation
        ↓
 Child Mortality Prediction
+
+---
+
+##  Machine Learning Algorithms
+
+The project uses different machine learning algorithms to analyze the dataset and generate predictions.
+
+The algorithms used include:
+
+- Linear Regression
+- Random Forest
+- Decision Tree
+- Logistic Regression
+- AdaBoost
+- Gradient Boosting
+- K-Nearest Neighbors (KNN)
+- Gaussian Naive Bayes
+
+Each algorithm is trained and evaluated to understand its performance on the given dataset.
+
+---
+
+##  Model Evaluation
+
+The performance of the machine learning models is evaluated using suitable evaluation metrics.
+
+The main metrics used in the project are:
+
+- **Accuracy** – Measures the percentage of correctly predicted results.
+- **R² Score** – Measures how well the model explains the variation in the target variable.
+
+The results of the different models are compared to understand their performance.
+
+---
+
+##  Technologies Used
+
+### Programming Language
+
+- Python
+
+### Development Environment
+
+- Jupyter Notebook
+- Anaconda
+
+### Python Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Gradio
+
+---
+
+## Requirements
+
+### Software Requirements
+
+- Python 3.x
+- Jupyter Notebook or JupyterLab
+- Anaconda (recommended)
+
+### Python Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Gradio
+
+### Installation
+
+Install the required libraries using:
+
+```bash
+pip install pandas numpy matplotlib scikit-learn gradio
