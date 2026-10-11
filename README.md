@@ -60,7 +60,7 @@ The dataset is processed before applying machine learning algorithms.
 
 ##  Project Workflow
 
-```text
+
 Data Collection
        ↓
 Data Preprocessing
@@ -154,5 +154,5 @@ The results of the different models are compared to understand their performance
 
 Install the required libraries using:
 
-```bash
+bash
 pip install pandas numpy matplotlib scikit-learn gradio
